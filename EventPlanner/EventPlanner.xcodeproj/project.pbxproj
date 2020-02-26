@@ -13,6 +13,7 @@
 		3F662B022406EDA200BB7EF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F662B002406EDA200BB7EF0 /* Main.storyboard */; };
 		3F662B042406EDA400BB7EF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F662B032406EDA400BB7EF0 /* Assets.xcassets */; };
 		3F662B072406EDA400BB7EF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F662B052406EDA400BB7EF0 /* LaunchScreen.storyboard */; };
+		3F84907B24072A8B007FBA48 /* EventRegistration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F84907A24072A8B007FBA48 /* EventRegistration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F662B032406EDA400BB7EF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F662B062406EDA400BB7EF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F662B082406EDA400BB7EF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F84907A24072A8B007FBA48 /* EventRegistration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRegistration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3F662B032406EDA400BB7EF0 /* Assets.xcassets */,
 				3F662B052406EDA400BB7EF0 /* LaunchScreen.storyboard */,
 				3F662B082406EDA400BB7EF0 /* Info.plist */,
+				3F84907A24072A8B007FBA48 /* EventRegistration.swift */,
 			);
 			path = EventPlanner;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				3F662AFF2406EDA200BB7EF0 /* ViewController.swift in Sources */,
 				3F662AFB2406EDA200BB7EF0 /* AppDelegate.swift in Sources */,
 				3F662AFD2406EDA200BB7EF0 /* SceneDelegate.swift in Sources */,
+				3F84907B24072A8B007FBA48 /* EventRegistration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
